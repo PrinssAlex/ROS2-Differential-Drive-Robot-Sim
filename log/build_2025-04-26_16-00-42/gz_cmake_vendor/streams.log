@@ -1,0 +1,23 @@
+[0.023s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/gz_cmake_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/gz_libs/gz_cmake_vendor -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/gz_cmake_vendor
+[0.049s] -- Found ament_cmake_core: 2.5.3 (/opt/ros/jazzy/share/ament_cmake_core/cmake)
+[0.394s] [31mCMake Error at CMakeLists.txt:20 (find_package):
+[0.394s]   By not providing "Findament_cmake_vendor_package.cmake" in
+[0.395s]   CMAKE_MODULE_PATH this project has asked CMake to find a package
+[0.395s]   configuration file provided by "ament_cmake_vendor_package", but CMake did
+[0.395s]   not find one.
+[0.395s] 
+[0.395s]   Could not find a package configuration file provided by
+[0.396s]   "ament_cmake_vendor_package" with any of the following names:
+[0.396s] 
+[0.396s]     ament_cmake_vendor_packageConfig.cmake
+[0.396s]     ament_cmake_vendor_package-config.cmake
+[0.396s] 
+[0.396s]   Add the installation prefix of "ament_cmake_vendor_package" to
+[0.397s]   CMAKE_PREFIX_PATH or set "ament_cmake_vendor_package_DIR" to a directory
+[0.397s]   containing one of the above files.  If "ament_cmake_vendor_package"
+[0.397s]   provides a separate development package or SDK, be sure it has been
+[0.397s]   installed.
+[0.397s] 
+[0.398s] [0m
+[0.398s] -- Configuring incomplete, errors occurred!
+[0.400s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/gz_cmake_vendor' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/gz_libs/gz_cmake_vendor -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/gz_cmake_vendor

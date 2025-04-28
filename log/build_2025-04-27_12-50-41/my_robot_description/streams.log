@@ -1,0 +1,23 @@
+[0.019s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prince/Desktop/ros2_2ndsem/build/my_robot_description -- -j4 -l4
+[0.070s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.407s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.576s] -- Configuring done (0.5s)
+[0.586s] -- Generating done (0.0s)
+[0.592s] -- Build files have been written to: /home/prince/Desktop/ros2_2ndsem/build/my_robot_description
+[0.627s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prince/Desktop/ros2_2ndsem/build/my_robot_description -- -j4 -l4
+[0.643s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prince/Desktop/ros2_2ndsem/build/my_robot_description
+[0.654s] -- Install configuration: ""
+[0.655s] -- Execute custom install script
+[0.656s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+[0.656s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+[0.656s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
+[0.656s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[0.657s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[0.657s]   ament_cmake_symlink_install_directory() can't find
+[0.657s]   '/home/prince/Desktop/ros2_2ndsem/src/my_robot_description/meshes'
+[0.657s] Call Stack (most recent call first):
+[0.657s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.657s]   cmake_install.cmake:46 (include)
+[0.657s] 
+[0.657s] [0m
+[0.659s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prince/Desktop/ros2_2ndsem/build/my_robot_description

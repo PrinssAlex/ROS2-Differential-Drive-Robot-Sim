@@ -1,0 +1,42 @@
+[0.033s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/my_robot_description
+[8.468s] -- The C compiler identification is GNU 13.3.0
+[9.702s] -- The CXX compiler identification is GNU 13.3.0
+[9.916s] -- Detecting C compiler ABI info
+[10.286s] -- Detecting C compiler ABI info - done
+[10.305s] -- Check for working C compiler: /usr/bin/cc - skipped
+[10.305s] -- Detecting C compile features
+[10.328s] -- Detecting C compile features - done
+[10.383s] -- Detecting CXX compiler ABI info
+[10.615s] -- Detecting CXX compiler ABI info - done
+[10.632s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[10.632s] -- Detecting CXX compile features
+[10.633s] -- Detecting CXX compile features - done
+[10.784s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[11.090s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[11.490s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[11.779s] -- Added test 'lint_cmake' to check CMake code style
+[11.783s] -- Added test 'xmllint' to check XML markup files
+[11.786s] -- Configuring done (11.5s)
+[11.792s] -- Generating done (0.0s)
+[11.795s] -- Build files have been written to: /home/prince/Desktop/ros2_2ndsem/build/my_robot_description
+[11.802s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/my_robot_description
+[11.804s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prince/Desktop/ros2_2ndsem/build/my_robot_description -- -j4 -l4
+[11.864s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prince/Desktop/ros2_2ndsem/build/my_robot_description -- -j4 -l4
+[11.879s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prince/Desktop/ros2_2ndsem/build/my_robot_description
+[11.889s] -- Install configuration: ""
+[11.889s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[11.890s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[11.890s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[11.891s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[11.891s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/path.sh
+[11.892s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[11.892s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.bash
+[11.892s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.sh
+[11.892s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[11.893s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[11.894s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/package.dsv
+[11.894s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[11.895s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[11.895s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[11.896s] -- Installing: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/package.xml
+[11.898s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prince/Desktop/ros2_2ndsem/build/my_robot_description

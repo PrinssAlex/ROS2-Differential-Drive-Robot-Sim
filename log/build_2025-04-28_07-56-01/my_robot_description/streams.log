@@ -1,0 +1,36 @@
+[0.229s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/my_robot_description
+[1.130s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.661s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.972s] -- Configuring done (1.0s)
+[2.107s] -- Generating done (0.1s)
+[2.124s] -- Build files have been written to: /home/prince/Desktop/ros2_2ndsem/build/my_robot_description
+[2.265s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/my_robot_description
+[2.269s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prince/Desktop/ros2_2ndsem/build/my_robot_description -- -j4 -l4
+[2.349s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/prince/Desktop/ros2_2ndsem/build/my_robot_description -- -j4 -l4
+[2.372s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prince/Desktop/ros2_2ndsem/build/my_robot_description
+[2.383s] -- Install configuration: ""
+[2.383s] -- Execute custom install script
+[2.418s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/camera.xacro
+[2.428s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+[2.433s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+[2.441s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
+[2.447s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[2.471s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+[2.473s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+[2.473s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[2.473s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[2.474s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[2.475s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[2.475s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[2.484s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/path.sh
+[2.485s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[2.486s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.bash
+[2.488s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.sh
+[2.489s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[2.490s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[2.491s] -- Symlinking: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/package.dsv
+[2.521s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[2.521s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[2.522s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[2.522s] -- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description/package.xml
+[2.528s] Invoked command in '/home/prince/Desktop/ros2_2ndsem/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/prince/Desktop/ros2_2ndsem/build/my_robot_description

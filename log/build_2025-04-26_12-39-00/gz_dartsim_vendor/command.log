@@ -1,0 +1,1 @@
+Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/gz_dartsim_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/gz_dartsim_vendor -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/gz_dartsim_vendor

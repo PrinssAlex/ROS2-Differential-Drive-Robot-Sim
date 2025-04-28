@@ -1,0 +1,11 @@
+-- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/prince/Desktop/ros2_2ndsem/build/my_robot_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+-- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+-- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/mobile_base_gazebo.xacro
+-- Up-to-date symlink: /home/prince/Desktop/ros2_2ndsem/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro

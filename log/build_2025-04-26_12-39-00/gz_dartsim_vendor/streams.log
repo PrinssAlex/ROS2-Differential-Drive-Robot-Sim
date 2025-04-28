@@ -1,0 +1,35 @@
+[0.065s] Invoking command in '/home/prince/Desktop/ros2_2ndsem/build/gz_dartsim_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/prince/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/prince/Desktop/ros2_2ndsem/gz_dartsim_vendor -DCMAKE_INSTALL_PREFIX=/home/prince/Desktop/ros2_2ndsem/install/gz_dartsim_vendor
+[1.191s] -- The C compiler identification is GNU 13.3.0
+[1.849s] -- The CXX compiler identification is GNU 13.3.0
+[2.010s] -- Detecting C compiler ABI info
+[2.290s] -- Detecting C compiler ABI info - done
+[2.303s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.304s] -- Detecting C compile features
+[2.305s] -- Detecting C compile features - done
+[2.341s] -- Detecting CXX compiler ABI info
+[2.520s] -- Detecting CXX compiler ABI info - done
+[2.535s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.535s] -- Detecting CXX compile features
+[2.536s] -- Detecting CXX compile features - done
+[2.688s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.932s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.266s] [31mCMake Error at CMakeLists.txt:13 (find_package):
+[3.267s]   By not providing "Findament_cmake_vendor_package.cmake" in
+[3.267s]   CMAKE_MODULE_PATH this project has asked CMake to find a package
+[3.267s]   configuration file provided by "ament_cmake_vendor_package", but CMake did
+[3.267s]   not find one.
+[3.267s] 
+[3.267s]   Could not find a package configuration file provided by
+[3.267s]   "ament_cmake_vendor_package" with any of the following names:
+[3.267s] 
+[3.267s]     ament_cmake_vendor_packageConfig.cmake
+[3.268s]     ament_cmake_vendor_package-config.cmake
+[3.268s] 
+[3.268s]   Add the installation prefix of "ament_cmake_vendor_package" to
+[3.268s]   CMAKE_PREFIX_PATH or set "ament_cmake_vendor_package_DIR" to a directory
+[3.268s]   containing one of the above files.  If "ament_cmake_vendor_package"
+[3.268s]   provides a separate development package or SDK, be sure it has been
+[3.268s]   installed.
+[3.268s] 
+[3.268s] [0m
+[3.269s] -- Configuring incomplete, errors occurred!
