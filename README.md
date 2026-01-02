@@ -136,7 +136,7 @@ Add your simulation video here
 
 ### Screenshots
 **Robot in Gazebo**  
-`[wheeled_robot.png]`
+`[wheeled_robot_1.png]`
 
 
 ---
