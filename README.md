@@ -130,13 +130,14 @@ ros2 topic list
 
 ## Results and Demonstrations
 
-### Simulation Video
-Add your simulation video here  
-`[wheeled_robot.webm]`
+### Robot Demo Video
+<video width="100%" height="auto" controls>
+  <source src="wheeled_robot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Screenshots
-**Robot in Gazebo**  
-`[wheeled_robot_1.png]`
+![Robot in Gazebo](wheeled_robot_1.png)
 
 
 ---
